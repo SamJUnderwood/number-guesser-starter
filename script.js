@@ -10,11 +10,7 @@ const compareGuesses = (userGuess, computerGuess, targetNumber) => {
   const computerDifference = Math.abs(computerGuess - targetNumber);
 
   // Determine the winner
-  if (userDifference <= computerDifference) {
-    return true;
-  } else {
-    return false;
-  }
+  return userDifference <= computerDifference;
 };
 
 const updateScore = (winner) => {
@@ -26,5 +22,5 @@ const updateScore = (winner) => {
 };
 
 const advanceRound = () => {
-  currentRoundNumber = +1;
+  currentRoundNumber += 1;
 };
