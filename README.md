@@ -44,3 +44,10 @@ Check out the live demo <a href="https://SamJUnderwood.github.io/number-guesser-
 3. **Navigate to the Project Directory**:
    ```bash
    cd number-guesser-starter
+
+   ## Contact
+
+If you have any questions or feedback, feel free to reach out to me:
+
+- **Email**: [samunderwood1989@gmail.com](mailto:samunderwood1989@gmail.com)
+- **LinkedIn**: [Sam Underwood](https://www.linkedin.com/in/sam-underwood-6448452b5)
