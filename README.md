@@ -4,6 +4,10 @@
 
 Welcome to the Number Guesser Game! This project is a simple and interactive web-based game where players try to guess a randomly generated number. The game is designed to demonstrate my skills in JavaScript, HTML, and CSS, and it incorporates key concepts of user interaction, logic, and game development.
 
+## Live Demo
+
+Check out the live demo [here](https://SamJUnderwood.github.io/number-guesser-starter/).
+
 ## Features
 
 - **Random Number Generation**: The game generates a random number between 0 and 9 for each round.
