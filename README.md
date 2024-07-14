@@ -27,6 +27,16 @@ Welcome to the Number Guesser Game! This project is a simple and interactive web
 
 ## How to Play
 
-1. Clone the repository to your local machine:
+1. **View the Repository**:
+   - Click [here](https://github.com/SamJUnderwood/number-guesser-starter) to view the repository on GitHub.
+
+2. **Clone the Repository to Your Local Machine**:
+   - Open your terminal or command prompt.
+   - Run the following command to clone the repository:
+     ```bash
+     git clone https://github.com/SamJUnderwood/number-guesser-starter.git
+     ```
+
+3. **Navigate to the Project Directory**:
    ```bash
-   git clone https://github.com/SamJUnderwood/number-guesser-starter.git
+   cd number-guesser-starter
