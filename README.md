@@ -6,7 +6,7 @@ Welcome to the Number Guesser Game! This project is a simple and interactive web
 
 ## Live Demo
 
-Check out the live demo [here](https://SamJUnderwood.github.io/number-guesser-starter/).
+Check out the live demo <a href="https://SamJUnderwood.github.io/number-guesser-starter/" target="_blank">here</a>.
 
 ## Features
 
