@@ -45,7 +45,7 @@ Check out the live demo <a href="https://SamJUnderwood.github.io/number-guesser-
    ```bash
    cd number-guesser-starter
 
-   ## Contact
+## Contact
 
 If you have any questions or feedback, feel free to reach out to me:
 
